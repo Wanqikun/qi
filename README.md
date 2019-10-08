@@ -1,5 +1,1 @@
 # qi
-
-
-
-Hi human!!
